@@ -24,8 +24,6 @@ p{
 													background-color:rgba(243,223,239,1.00);
 }
 .menuItem{
-													border: 1px pink solid;
-													border-radius: 0.5em;
 													padding: 0.2;
 													opacity: 0.8;
 													display:flex;
